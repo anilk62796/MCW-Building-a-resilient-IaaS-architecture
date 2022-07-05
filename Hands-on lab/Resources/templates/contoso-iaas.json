@@ -9,9 +9,9 @@
                 "description": "Size of Virtual Machines to use"
             },
             "allowedValues": [
-                "D2s_v3",
-                "D2s_v5",
-                "B1s"
+                "B1s",
+                "B2s",
+                
             ]
         },
         "adminUsername": {
