@@ -156,7 +156,7 @@
         "Standard_E8s_v3",
         "Standard_E16s_v3",
         "Standard_E32s_v3",
-        "Standard_E64s_v3"
+        "Standard_B1s"
       ],
       "metadata": {
         "description": "Size of the Host Virtual Machine"
